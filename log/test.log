@@ -233,3 +233,4 @@ Processing by StaticController#main as HTML
   Rendered static/main.html.erb within layouts/application (1.1ms)
 Completed 200 OK in 337ms (Views: 328.5ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
