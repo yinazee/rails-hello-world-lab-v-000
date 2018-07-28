@@ -1,8 +1,7 @@
 class StaticController < ApplicationController
 
-  get "/hello_world" do
+  def main
 
-    render 'main'
   end
 
 end
